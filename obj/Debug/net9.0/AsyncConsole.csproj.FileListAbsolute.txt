@@ -1,0 +1,14 @@
+/Users/fozanrizvi/Workspace/dotnet/Console Apps/AsyncConsole/bin/Debug/net9.0/AsyncConsole
+/Users/fozanrizvi/Workspace/dotnet/Console Apps/AsyncConsole/bin/Debug/net9.0/AsyncConsole.deps.json
+/Users/fozanrizvi/Workspace/dotnet/Console Apps/AsyncConsole/bin/Debug/net9.0/AsyncConsole.runtimeconfig.json
+/Users/fozanrizvi/Workspace/dotnet/Console Apps/AsyncConsole/bin/Debug/net9.0/AsyncConsole.dll
+/Users/fozanrizvi/Workspace/dotnet/Console Apps/AsyncConsole/bin/Debug/net9.0/AsyncConsole.pdb
+/Users/fozanrizvi/Workspace/dotnet/Console Apps/AsyncConsole/obj/Debug/net9.0/AsyncConsole.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fozanrizvi/Workspace/dotnet/Console Apps/AsyncConsole/obj/Debug/net9.0/AsyncConsole.AssemblyInfoInputs.cache
+/Users/fozanrizvi/Workspace/dotnet/Console Apps/AsyncConsole/obj/Debug/net9.0/AsyncConsole.AssemblyInfo.cs
+/Users/fozanrizvi/Workspace/dotnet/Console Apps/AsyncConsole/obj/Debug/net9.0/AsyncConsole.csproj.CoreCompileInputs.cache
+/Users/fozanrizvi/Workspace/dotnet/Console Apps/AsyncConsole/obj/Debug/net9.0/AsyncConsole.dll
+/Users/fozanrizvi/Workspace/dotnet/Console Apps/AsyncConsole/obj/Debug/net9.0/refint/AsyncConsole.dll
+/Users/fozanrizvi/Workspace/dotnet/Console Apps/AsyncConsole/obj/Debug/net9.0/AsyncConsole.pdb
+/Users/fozanrizvi/Workspace/dotnet/Console Apps/AsyncConsole/obj/Debug/net9.0/AsyncConsole.genruntimeconfig.cache
+/Users/fozanrizvi/Workspace/dotnet/Console Apps/AsyncConsole/obj/Debug/net9.0/ref/AsyncConsole.dll
